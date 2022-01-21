@@ -108,7 +108,7 @@ services:
             "topics": "zeek", 
             "key.ignore": true,
             "schema.ignore": true, 
-            "connection.url": "https://host-172-16-101-118.nubes.stfc.ac.uk:9200", 
+            "connection.url": "https://opensearch-host:9200", 
             "type.name": "kafka-connect", 
             "connection.username": "admin", 
             "connection.password": "admin" 
